@@ -1,8 +1,13 @@
+# Capstone - Google IT Automation with Python Professional Course
 
-These folder contains the 7 scripts which I have used for the final capstone project
-for the Google IT Automation with Python professional Course Series.
+These repository contains the scripts which I have used for the final capstone project for the Google IT Automation with Python professional Course Series.
+The series contains 5 courses and 1 final capstone project.
 
-The 7 scripts are as follows:
+<p align="center">
+<img src='Completed_courses.JPG'> 
+</p>
+
+The 7 scripts are as follows, and are used in this order:
 	
 	1. changeImage.py
 	2. supplier_image_upload.py
@@ -11,3 +16,14 @@ The 7 scripts are as follows:
 	5. reports.py
 	6. report_email.py
 	7. health_check.py
+
+Adding here the badge that I got after completing the course. Man, what a challenge.
+Course isurmountable as you move towards harder assignments. Some of the Qwiklabs I plan to re-do because while it was indeed a struggle, 
+I enjoyed every part of it.
+
+Plus the feeling of closing the dozens tabs in your browser after your code works was just, wow.
+Almost like nirvana.
+
+<p align="center">
+<img src='Course_badge.JPG'> 
+</p>
