@@ -17,11 +17,11 @@ The 7 scripts are as follows, and are used in this order:
 	6. report_email.py
 	7. health_check.py
 
-Adding here the badge that I got after completing the course. Man, what a challenge.
-Course isurmountable as you move towards harder assignments. Some of the Qwiklabs I plan to re-do because while it was indeed a struggle, 
+Also adding here the badge that I got after completing the course. Man, what a challenge.
+Course definitely felt insurmountable as I moved towards harder assignments. Some of the Qwiklabs I plan to re-do because while it was indeed a struggle, 
 I enjoyed every part of it.
 
-Plus the feeling of closing the dozens tabs in your browser after your code works was just, wow.
+Plus the feeling of closing the dozen tabs in your browser after your code works was just, wow.
 Almost like nirvana.
 
 <p align="center">
